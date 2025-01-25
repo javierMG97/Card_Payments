@@ -1,0 +1,19 @@
+Microsoft example:
+Authorization message, DE37: 333371322392
+Cancelation message, DE37: 851075564843
+
+Didi example:
+Authorization message, DE37: 339371321587
+Cancelation message, DE37: 921080307098
+
+Uber example:
+Authorization message, DE37: 795373979905
+Cancelation message, DE37: 731118081289
+
+Roku example:
+Authorization message, DE37: 180267616677
+Cancelation message, DE37: 339371321220
+
+Amazon example:
+Authorization message, DE37: 851075542636
+Cancelation message, DE37: 796373978165
